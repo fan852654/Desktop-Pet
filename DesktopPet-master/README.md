@@ -1,8 +1,4 @@
 # 桌面宠物
-模仿伪春菜而成，但只有shell，没有ghost。
-
-## 演示
-![茶兔](https://raw.githubusercontent.com/huiyadanli/DesktopPet/master/img/animation.gif)
 
 ## 说明
 素材来自伪春菜人格茶兔，作者：[猫鱼](http://ulenardis.lofter.com/)。
