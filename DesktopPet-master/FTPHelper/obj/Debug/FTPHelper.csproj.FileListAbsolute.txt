@@ -1,0 +1,12 @@
+C:\Users\ghost\Desktop\DesktopPet-master\FTPHelper\bin\Debug\FTPHelper.dll
+C:\Users\ghost\Desktop\DesktopPet-master\FTPHelper\bin\Debug\FTPHelper.pdb
+C:\Users\ghost\Desktop\DesktopPet-master\FTPHelper\obj\Debug\FTPHelper.csprojAssemblyReference.cache
+C:\Users\ghost\Desktop\DesktopPet-master\FTPHelper\obj\Debug\FTPHelper.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\DesktopPet-master\FTPHelper\obj\Debug\FTPHelper.dll
+C:\Users\ghost\Desktop\DesktopPet-master\FTPHelper\obj\Debug\FTPHelper.pdb
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\FTPHelper\bin\Debug\FTPHelper.dll
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\FTPHelper\bin\Debug\FTPHelper.pdb
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\FTPHelper\obj\Debug\FTPHelper.csprojAssemblyReference.cache
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\FTPHelper\obj\Debug\FTPHelper.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\FTPHelper\obj\Debug\FTPHelper.dll
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\FTPHelper\obj\Debug\FTPHelper.pdb

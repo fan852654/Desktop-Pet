@@ -1,0 +1,15 @@
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\USNJournalConsole.exe.config
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\USNJournalConsole.exe
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\USNJournalConsole.pdb
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\QueryEngine.dll
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\UsnOperation.dll
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\PInvoke.dll
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\QueryEngine.pdb
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\UsnOperation.pdb
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\PInvoke.pdb
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\bin\Debug\PInvoke.dll.config
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\obj\x86\Debug\USNJournalConsole.csprojAssemblyReference.cache
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\obj\x86\Debug\USNJournalConsole.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\obj\x86\Debug\USNJournalConsole.csproj.CopyComplete
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\obj\x86\Debug\USNJournalConsole.exe
+C:\Users\ghost\Desktop\DesktopPet-master\USNJournalConsole\obj\x86\Debug\USNJournalConsole.pdb

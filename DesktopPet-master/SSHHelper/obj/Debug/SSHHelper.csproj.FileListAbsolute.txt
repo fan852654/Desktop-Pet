@@ -1,0 +1,9 @@
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\bin\Debug\SSHHelper.dll
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\bin\Debug\SSHHelper.pdb
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\bin\Debug\Renci.SshNet.dll
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\bin\Debug\Renci.SshNet.xml
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\obj\Debug\SSHHelper.csprojAssemblyReference.cache
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\obj\Debug\SSHHelper.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\obj\Debug\SSHHelper.csproj.CopyComplete
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\obj\Debug\SSHHelper.dll
+C:\Users\ghost\Desktop\DesktopPet-master\SSHHelper\obj\Debug\SSHHelper.pdb

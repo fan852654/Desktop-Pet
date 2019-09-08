@@ -1,0 +1,16 @@
+C:\Users\ghost\Desktop\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.csprojAssemblyReference.cache
+C:\Users\ghost\Desktop\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Desktop\DesktopPet-master\CompressHelper\bin\Debug\CompressHelper.dll
+C:\Users\ghost\Desktop\DesktopPet-master\CompressHelper\bin\Debug\CompressHelper.pdb
+C:\Users\ghost\Desktop\DesktopPet-master\CompressHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ghost\Desktop\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.csproj.CopyComplete
+C:\Users\ghost\Desktop\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.dll
+C:\Users\ghost\Desktop\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.pdb
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\CompressHelper\bin\Debug\CompressHelper.dll
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\CompressHelper\bin\Debug\CompressHelper.pdb
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\CompressHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.csprojAssemblyReference.cache
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.csproj.CoreCompileInputs.cache
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.csproj.CopyComplete
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.dll
+C:\Users\ghost\OneDrive\c#\DesktopPet-master\CompressHelper\obj\Debug\CompressHelper.pdb
